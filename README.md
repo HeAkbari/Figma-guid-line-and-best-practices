@@ -737,7 +737,9 @@ Primary action buttons for user interactions.
 
 #### Design System Resources
 
-Check the following link to see the **Layout Structure, Framing, Naming Conventions, etc.** 9. **PrimeOne: Component Guidelines** - Link: https://www.figma.com/design/G855HjuSyK8viJr0a5ZjRG/Preview-%7C%C2%A0PrimeOne-%7C-3.0.1?node-id=6738-47040&t=1BCMhqcmuOdhiBQv-0
+Check the following link to see the **Layout Structure, Framing, Naming Conventions, etc.** 
+
+9. **PrimeOne: Component Guidelines** - Link: https://www.figma.com/design/G855HjuSyK8viJr0a5ZjRG/Preview-%7C%C2%A0PrimeOne-%7C-3.0.1?node-id=6738-47040&t=1BCMhqcmuOdhiBQv-0
 
 10. **Material Design: Component Guidelines**
     - Link: https://m3.material.io/components
